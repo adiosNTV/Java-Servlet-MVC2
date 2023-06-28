@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ProjectAssignmentMVC2Filter">
+    <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="vuntData" password="12345" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=vuntse170543Prj301;instanceName=SQLEXPRESS" username="sa"/>
+</Context>
